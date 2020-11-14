@@ -1,2 +1,2 @@
-# join-sql-data-analysis-
+# DataQuest
 Dataquest Intermediate SQL for Data Analysis
